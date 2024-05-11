@@ -1,0 +1,10 @@
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\bin\Debug\Lab-10-leonov.exe.config
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\bin\Debug\Lab-10-leonov.exe
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\bin\Debug\Lab-10-leonov.pdb
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab-10-leonov.csproj.AssemblyReference.cache
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab_10_leonov.Form1.resources
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab_10_leonov.Properties.Resources.resources
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab-10-leonov.csproj.GenerateResource.cache
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab-10-leonov.csproj.CoreCompileInputs.cache
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab-10-leonov.exe
+C:\Users\tire_\Documents\LEARN\ImitModelling\repo\ImitModelling\lab10Leonov\Lab-10-leonov\Lab-10-leonov\obj\Debug\Lab-10-leonov.pdb
